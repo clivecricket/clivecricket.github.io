@@ -1,22 +1,22 @@
 [   
 	{
-		"catimgurl2": "https://1.bp.blogspot.com/-JIBQ3SYIF6Q/XliJ7TUK10I/AAAAAAAAAlQ/0Uwh-ogtKsokE6zlV94svoDdH6SjA7n7QCLcBGAsYHQ/s50/IPL.png",
-		"catlink2": "https://commondp.github.io/cat/IPL.json",
+		"catimgurl2": "https://1.bp.blogspot.com/-Q9pqOUUf0S8/XmJEseDcMnI/AAAAAAAAAmk/Rv7gZoSz9C07oe0A6-bSI57KrGVUFksogCLcBGAsYHQ/s60/i.png",
+		"catlink2": "https://api.commondp.com/IPLTV/cat/IPL.json",
 		"catname2": "Indian Premier League - IPLT20",
 		"catscreen2": "cat",
 		"catup2": "nn.png"
 	},
 	{
-		"version": "0.24",
+		"version": "0.02",
 		"vlink": "https://github.com/commondp/trail.github.io/raw/master/IPLTV_0.1.1.12.apk",
-		"btnpos": "1",
+		"btnpos": "0",
 		"Versdisc": "NOTE: Please Wait Few Hours New Update Will Arrived.",
 		"catup2": "nn.png"
 	},
 	{
-		"version": "0.24",
+		"version": "0.02",
 		"vlink": "https://github.com/commondp/trail.github.io/raw/master/IPLTV_0.1.1.12.apk",
-		"btnpos": "1",
+		"btnpos": "0",
 		"Versdisc": "NOTE: Please Wait Few Hours New Update Will Arrived.",
 		"catup2": "nn.png"
 	}
