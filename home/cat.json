@@ -1,31 +1,23 @@
 [   
 	{
-		"catimgurl1": "https://1.bp.blogspot.com/-IAc3d3L61Y0/XgYfY90wRmI/AAAAAAAAAjg/3ZI58Vp4nu0OSIepmsldZFMkDkwQ4IVfQCLcBGAsYHQ/s50/cricket.png",
-		"catlink1": "https://commondp.github.io/cat/cricket.json",
+		"catimgurl1": "https://1.bp.blogspot.com/-_VMHEaojLR0/XmJE0FTp4nI/AAAAAAAAAns/c7jklLBMb7MRSCNWbLZ4XxuHTW0DOTLHACLcBGAsYHQ/s60/C.png",
+		"catlink1": "https://api.commondp.com/IPLTV/cat/cricket.json",
 		"catname1": "Cricket",
 		"catscreen1": "cat",
 		"catup1": "oo.png"
 	},
 	{
-		"catimgurl1": "https://1.bp.blogspot.com/-KoJXTz-Ap98/XgYfZHBIJ2I/AAAAAAAAAjo/Ei3-JAJjwJwxFjMXjp3St_pyujQKnnwfgCLcBGAsYHQ/s50/football.png",
-		"catlink1": "https://commondp.github.io/cat/football.json",
+		"catimgurl1": "https://1.bp.blogspot.com/-QRqy2E56xaI/XmJE0_kgoBI/AAAAAAAAAnw/5nVPzKd8fzwYo8SN7GO28phd_JncMmdAQCLcBGAsYHQ/s60/F.png",
+		"catlink1": "https://api.commondp.com/IPLTV/cat/football.json",
 		"catname1": "Football",
 		"catscreen1": "cat",
 		"catup1": "oo.png"
 	},
 	{
-		"catimgurl1": "https://1.bp.blogspot.com/-i66LFCwM6dI/XgYfY7c4KXI/AAAAAAAAAjk/m2lzn5NQf28wc5bLri-yCIp5KcZmMJFVgCLcBGAsYHQ/s50/sports.png",
-		"catlink1": "https://commondp.github.io/cat/sports.json",
+		"catimgurl1": "https://1.bp.blogspot.com/-06D4csfAyG4/XmJE2W9BeUI/AAAAAAAAAn8/zCpdCpdwFSQYhbsNY3FbQeOYFh0OCwEKwCLcBGAsYHQ/s60/S.png",
+		"catlink1": "https://api.commondp.com/IPLTV/cat/sports.json",
 		"catname1": "Other Sports",
 		"catscreen1": "cat",
 		"catup1": "oo.png"
-	},
-	{
-		"catimgurl1": "https://1.bp.blogspot.com/-67FxO8sHchM/XgiPiQz4VaI/AAAAAAAAAkc/APG9MyokBMAcvZPpNbjw13Iol_IQH0oswCLcBGAsYHQ/s50/HD.png",
-		"catlink1": "https://commondp.github.io/youtube/Hdubbed.json",
-		"catname1": "Hindi Dubbed Movies",
-		"catscreen1": "youtube",
-		"catup1": "oo.png"
 	}
-	
 ]
