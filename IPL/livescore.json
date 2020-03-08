@@ -14,6 +14,7 @@
     {
     "version": "0.01",
     "vlink": "link:,
+    "vdisc": "test",	    
     "hide": "1"     
     }	
 ]    
