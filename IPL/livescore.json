@@ -10,5 +10,10 @@
     "name": "CSK Vs MI - 1ST APRIL",
     "link": "link",
     "screen": "web"
-	  }
+	  },
+    {
+    "version": "0.01",
+    "vlink": "link:,
+    "hide": "1"     
+    }	
 ]    
