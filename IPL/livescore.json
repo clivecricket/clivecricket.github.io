@@ -4,13 +4,19 @@
     "name": "CSK Vs MI - 1ST APRIL",
     "link": "link",
     "screen": "web"
-	  },
+    },
     {
     "img": "https://ssl.gstatic.com/onebox/media/sports/logos/exZiFUT_GXScTyr358t7SQ_96x96.png",
     "name": "CSK Vs MI - 1ST APRIL",
     "link": "link",
     "screen": "web"
-	  },
+    },
+    {
+    "version": "0.01",
+    "vlink": "link",
+    "vdisc": "test",	    
+    "hide": "1"     
+    },
     {
     "version": "0.01",
     "vlink": "link",
